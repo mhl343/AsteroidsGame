@@ -80,7 +80,7 @@ public void keyPressed(){
 		bob.setDirectionY(0);
 		
 	}
-	if (key=='b'){
+	if (key=='s'){
 		toby.add(new Bullet(bob));
 	}
 }
